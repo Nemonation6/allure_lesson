@@ -1,2 +1,5 @@
 #allure
 tests/allure-results
+
+#idea
+.idea
